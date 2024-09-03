@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm an AI Developer<br><br>🤖 I'm an AI Enthusiast working on Machine Learning & Deep Learning projects<br><br>👨‍💻 All of my projects are available on my github<br><br>💬 Ask me about AI: Machine Learning & Deep Learning <br><br>📫 Reach me via fedy.benhassouna@insat.ucar.tn<br><br>📄 Know more about me [via my resume](./Fedy_BEN_HASSOUNA_resume.pdf.pdf)
+👩‍💻 I'm an AI Developer<br><br>🤖 I'm an AI Enthusiast working on Machine Learning & Deep Learning projects<br><br>👨‍💻 All of my projects are available on my github<br><br>💬 Ask me about AI: Machine Learning & Deep Learning <br><br>📫 Reach me via fedy.benhassouna@insat.ucar.tn<br><br>📄 Know more about me [via my resume]([./Fedy_BEN_HASSOUNA_resume.pdf.pdf](https://github.com/fedy-benhassouna/fedy-benhassouna/blob/main/Fedy_BEN_HASSOUNA%20resume.pdf.pdf))
 
 
 ## 🌐 Socials:
