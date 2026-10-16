@@ -9,7 +9,7 @@ I build LLM systems that ship and move real numbers. AI Founding Engineer at [Or
 - 🏆 3× hackathon first places · Selected for MENA ML Winter School (Doha) and MoroccoAI Summer School (Rabat)
 - 🌐 Portfolio: [fedy-benhassouna.github.io](https://fedy-benhassouna.github.io)
 - 📫 Reach me at benhassouna.fedy@gmail.com
-- 📄 [Download my CV](https://fedy-benhassouna.github.io/Fedy_Ben_Hassouna_EN__2027.pdf)
+- 📄 [Download my CV](https://fedy-benhassouna.github.io/Fedy_Ben_Hassouna_CV_EN.pdf)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedy-ben-hassouna-9232a7249/) [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f.svg?logo=googlechrome&logoColor=white)](https://fedy-benhassouna.github.io) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benhassouna.fedy@gmail.com)
